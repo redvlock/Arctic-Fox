@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 MAINTAINER Franziskus Kiefer <franziskuskiefer@gmail.com>
 
 RUN useradd -d /home/worker -s /bin/bash -m worker
