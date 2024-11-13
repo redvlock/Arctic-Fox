@@ -1,4 +1,4 @@
-FROM        ubuntu:14.04
+FROM        ubuntu:trusty-20190425
 MAINTAINER  Greg Arndt <garndt@mozilla.com>
 
 RUN mkdir -p /home/worker/upload/logs
