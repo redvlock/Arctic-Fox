@@ -12,3 +12,4 @@ mozcrash >= 0.5
 mozprofile >= 0.7
 moztest >= 0.7
 mozversion >= 1.1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
